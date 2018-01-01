@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: 1 Jan 2018
+### Day 1 Jan 2018
 
 **Today's Progress**: Part fixed [Groundwork](https://github.com/growdigital/groundwork/) `/blog/` functionality. It's a blog template written for Metalsmith. Still have to fix `/status/`, as it is now subsumed into the `/blog/` directory.
 
