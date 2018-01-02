@@ -7,3 +7,11 @@
 **Thoughts:** Am I really programming? Feels like I spend most of my life configuring… ! (mostly in [index.js](https://github.com/growdigital/groundwork/blob/master/index.js)
 
 **Link to work:** [Grounwork issue 11](https://github.com/growdigital/groundwork/issues/11)
+
+### Day 2 Jan 2018
+
+**Today's Progress**: Finished permalinks being `/blog/` and `/status/`. 
+
+**Thoughts:** How much am I learning?
+
+**Link to work:** [Grounwork issue 11](https://github.com/growdigital/groundwork/issues/11)
